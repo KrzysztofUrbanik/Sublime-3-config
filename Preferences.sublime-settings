@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
+	"enable_tab_scrolling": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"spacegray_sidebar_tree_small": true,
+	"spacegray_tabs_auto_width": true,
+	"spacegray_tabs_font_small": true,
+	"theme": "Spacegray Eighties.sublime-theme"
+}

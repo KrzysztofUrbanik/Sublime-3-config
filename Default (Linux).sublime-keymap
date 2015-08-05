@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+shift+e"], "command": "related_files"},
+	{ "keys": ["shift+e"], "command": "rails_open_view" }
+]

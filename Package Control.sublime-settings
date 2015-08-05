@@ -1,0 +1,17 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketGuard",
+		"GitGutter",
+		"Package Control",
+		"Rails OpenView",
+		"Related Files",
+		"SublimeLinter",
+		"SublimeLinter-contrib-ruby-lint",
+		"SublimeLinter-ruby",
+		"Theme - Spacegray"
+	]
+}
