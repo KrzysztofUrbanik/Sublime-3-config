@@ -4,11 +4,13 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"BracketGuard",
 		"GitGutter",
 		"Package Control",
 		"Rails OpenView",
 		"Related Files",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-ruby-lint",
 		"SublimeLinter-ruby",
