@@ -1,4 +1,14 @@
 [
 	{ "keys": ["ctrl+shift+e"], "command": "related_files"},
-	{ "keys": ["shift+e"], "command": "rails_open_view" }
+	{ "keys": ["shift+e"], "command": "rails_open_view" },
+  {
+      "keys": ["alt+r"], "command": "browser_refresh", "args": {
+          "auto_save": true,
+          "delay": 0.5,
+          "activate": true,
+          "browsers" : ["chrome"]
+      }
+  },
+  { "keys": ["ctrl+s"], "command": "save_evernote_note", "context": [{"key": "evernote_note"}, {"key": "evernote_has_guid"}] },
+  { "keys": ["ctrl+s"], "command": "send_to_evernote", "context": [{"key": "evernote_note"}, {"key": "evernote_has_guid", "operator": "equal", "operand": false}] },
 ]
