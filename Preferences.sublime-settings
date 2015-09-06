@@ -1,7 +1,9 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
 	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
 	"font_size": 8,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -9,10 +11,8 @@
 	"spacegray_sidebar_tree_small": true,
 	"spacegray_tabs_auto_width": true,
 	"spacegray_tabs_font_small": true,
+	"tab_size": 2,
 	"theme": "Spacegray Eighties.sublime-theme",
-	"ensure_newline_at_eof_on_save": true,
-  "highlight_line": true,
-  "tab_size": 2,
-  "translate_tabs_to_spaces": true,
-  "trim_trailing_white_space_on_save": true
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
