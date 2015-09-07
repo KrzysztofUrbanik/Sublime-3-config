@@ -19,6 +19,7 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-ruby-lint",
 		"SublimeLinter-ruby",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"Tint"
 	]
 }
